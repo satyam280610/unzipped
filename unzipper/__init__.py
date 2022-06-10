@@ -1,4 +1,4 @@
-# Copyright (c) 2022 EDM115
+# Copyright (c) 2022 rdx28806
 
 from pyrogram import Client
 from pyromod import listen
