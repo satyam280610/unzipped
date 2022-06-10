@@ -1,4 +1,4 @@
-# Copyright (c) 2022 EDM115
+# Copyright (c) 2022 rdx28806
 
 from unzipper import unzipperbot as Client
 from motor.motor_asyncio import AsyncIOMotorClient
