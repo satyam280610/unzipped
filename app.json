@@ -9,11 +9,9 @@
         "Telegram Bot",
         "unzipper bot"
     ],
-    "website": "Rdx
-https://t.me/rdx28806",
+    "website": "https://t.me/rdx28806",
     "repository": "https://github.com/satyam280610/unzipped",
-    "success_url": "Rdx
-https://t.me/rdx28806",
+    "success_url": "https://t.me/rdx28806",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
