@@ -1,4 +1,4 @@
-# Copyright (c) 2022 EDM115
+# Copyright (c) 2022 rdx28806
 
 import os
 
@@ -13,5 +13,5 @@ if __name__ == "__main__" :
     unzipperbot.start()
     print("Checking Log channel…")
     check_logs()
-    print("Bot is running now ! Join @EDM115bots")
+    print("Bot is running now ! Join @rdx28806")
     idle()
